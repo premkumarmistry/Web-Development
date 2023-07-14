@@ -1,0 +1,61 @@
+<html>
+<head>
+    <title>Demo</title>
+</head>
+<body>
+   <center> <h1>List Example</h1></center>
+ <b>
+    <p>This Practical is About Ordered List in Html </p>
+    
+
+
+    <p>Ordeded List With Type As 1  </p>
+<ol type="1">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Strawberry</li>
+    <li>Grapes</li>
+</ol>
+
+
+<p>Ordeded List With Type As A  </p>
+<ol type="A">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Strawberry</li>
+    <li>Grapes</li>
+</ol>
+
+<p>Ordeded List With Type As a  </p>
+<ol type="a">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Strawberry</li>
+    <li>Grapes</li>
+</ol>
+
+<p>Ordeded List With Type As I  </p>
+<ol type="I">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Strawberry</li>
+    <li>Grapes</li>
+</ol>
+
+<p>Ordeded List With Type As i  </p>
+<ol type="i">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Strawberry</li>
+    <li>Grapes</li>
+</ol>
+
+
+
+
+
+
+</body>
+
+
+</html>
