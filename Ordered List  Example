@@ -9,7 +9,7 @@
     
 
 
-    <p>Ordeded List With Type As 1  </p>
+    <p>Ordered List With Type As 1  </p>
 <ol type="1">
     <li>Apple</li>
     <li>Banana</li>
@@ -18,7 +18,7 @@
 </ol>
 
 
-<p>Ordeded List With Type As A  </p>
+<p>Ordered List With Type As A  </p>
 <ol type="A">
     <li>Apple</li>
     <li>Banana</li>
@@ -26,7 +26,7 @@
     <li>Grapes</li>
 </ol>
 
-<p>Ordeded List With Type As a  </p>
+<p>Ordered List With Type As a  </p>
 <ol type="a">
     <li>Apple</li>
     <li>Banana</li>
@@ -34,7 +34,7 @@
     <li>Grapes</li>
 </ol>
 
-<p>Ordeded List With Type As I  </p>
+<p>Ordered List With Type As I  </p>
 <ol type="I">
     <li>Apple</li>
     <li>Banana</li>
@@ -42,7 +42,7 @@
     <li>Grapes</li>
 </ol>
 
-<p>Ordeded List With Type As i  </p>
+<p>Ordered List With Type As i  </p>
 <ol type="i">
     <li>Apple</li>
     <li>Banana</li>
