@@ -1,0 +1,39 @@
+<html>
+<head>
+    <title>Demo</title>
+</head>
+<body>
+   <center> <h1>List Example</h1></center>
+ <b>
+    <p>This Practical is About Un-Ordered List in Html </p>
+    
+
+
+    <p>Un-Ordered List With Type As Square  </p>
+<ul type="square">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Strawberry</li>
+    <li>Grapes</li>
+</ul>
+
+
+<p>Un-Ordered List With Type As Circle  </p>
+<ul type="circle">
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Strawberry</li>
+    <li>Grapes</li>
+</ul>
+
+
+
+
+
+
+
+
+</body>
+
+
+</html>
