@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Table Demo</title>
+</head>
+<body>
+
+    <center><h1>Table Demo</h1></center>
+  
+    <table  style="width: 25;" border="1" align="center"  >
+       <caption align="center">Caption For Table</caption>
+        <tr >
+            <th colspan="1">Item</th>
+          
+            <th colspan="1">Price</th>
+           
+       </tr>
+       <tr>
+        <td>Item 1</td>
+        <td>Item 2</td>
+        <tr>
+        <td>Item 3</td>
+        <td>Item 4</td>
+       </tr>
+       <tr>
+        <td>Item 5</td>
+        <td>Item 6</td>
+      
+    </tr>
+    <tr>
+    <td>150</td>
+    <td>100</td>
+    </tr>
+    <tr>
+    <td>150</td>
+    <td>100</td>
+</tr>
+<tr>    
+    <td>150</td>
+    <td>100</td>
+</tr>
+
+    </table>
+
+</body>
+
+</html>
